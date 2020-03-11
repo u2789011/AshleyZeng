@@ -1,0 +1,191 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+
+h3 {
+    color: #fff;
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+#title {
+    background-color: #000000;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* navbar */
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+/* download-botton */
+.download-botton {
+    margin: 5% 3% 5% 0
+}
+
+/* title-image */
+.title-image {
+    width: 100%;
+    position: absolute;
+    right: 0%;
+}
+
+/* Features */
+#features {
+    padding: 7% 15%;
+    background-color: #000000;
+    position: relative;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.features-name {
+    font-size: 1.5rem;
+}
+
+.icon {
+    color: #ff4c68;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+/* Resume */
+#resume {
+    padding: 7% 15%;
+    background-color: #000000;
+    position: relative;
+}
+
+#work {
+    background-color: #000000;
+    position: relative;
+}
+.work-text{
+}
+
+.work-image{
+    width: 100%;
+    padding: 10px;
+}
+
+.testimonials-image-lg {
+    width: 80%;
+    padding: 20px;
+    border-radius: 100%;
+}
+
+/* testimonials */
+#testimonials {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.testimonials-image {
+    width: 100%;
+    padding: 20px;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* pricing */
+#pricing {
+    padding: 100px;
+    text-align: center;
+    background-color: #000000;
+}
+
+.pricing-col {
+    padding: 3% 2%
+}
+
+/* cta */
+#cta {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-text {
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+/* footer */
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.footer-botton {
+    margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+    }
+}
