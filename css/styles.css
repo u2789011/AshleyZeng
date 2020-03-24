@@ -26,6 +26,12 @@ p {
     color: #8f8f8f;
 }
 
+/* 透明漸變 - color - transparent */
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,255.75), rgba(0,0,0,0));
+}
 #title {
     background-color: #000000;
     color: #fff;
