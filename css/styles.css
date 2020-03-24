@@ -63,9 +63,9 @@ p {
 
 /* title-image */
 .title-image {
-    width: 70%;
+    width: 100%;
     position: absolute;
-    right: 20%;
+    right: 5%;
 }
 
 /* Features */
