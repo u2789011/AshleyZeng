@@ -30,7 +30,7 @@ p {
 hr.style-two {
     border: 0;
     height: 1px;
-    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,255.75), rgba(0,0,0,0));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 255.75), rgba(0, 0, 0, 0));
 }
 
 #title {
@@ -99,6 +99,7 @@ hr.style-two {
 .icon:hover {
     color: #ff4c68;
 }
+
 /* Resume */
 #resume {
     padding: 7% 15%;
@@ -111,7 +112,7 @@ hr.style-two {
     position: relative;
 }
 
-.work-image{
+.work-image {
     width: 100%;
     padding: 10px;
 }
