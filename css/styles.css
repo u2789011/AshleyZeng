@@ -21,10 +21,12 @@ h2 {
 
 h3 {
     color: #841818;
+    font-weight: 100;
 }
 
 p {
     color: #333333;
+    font-weight: 100;
 }
 
 /* 透明漸變 - color - transparent */
