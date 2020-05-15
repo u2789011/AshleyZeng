@@ -118,8 +118,9 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.7);
 		font-family: Montserrat, sans-serif;
 		font-size: 16.5pt;
-		font-weight: 100;
+		font-weight: 300;
 		line-height: 1.75;
+		letter-spacing: 1px
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -173,12 +174,10 @@ input, select, textarea {
 	p {
 		margin: 0 0 2em 0;
 		letter-spacing: 2px
-		font-weight: normal;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-weight: normal;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
 		letter-spacing: 3px
