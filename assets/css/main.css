@@ -199,10 +199,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: -webkit-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: -ms-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3024,7 +3024,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(140,140, 188, 0.9);
+				background: rgba(215, 129, 106, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3132,7 +3132,7 @@ input, select, textarea {
 			}
 
 			.bg{
-				display: none;
+				opacity:0.5;
 			}
 
 		}
@@ -3242,7 +3242,7 @@ input, select, textarea {
 			}
 
 		.bg{
-			width: 70%;
+			width: 50%;
 			position: absolute;
 			margin: 0;
 			right: 0;
@@ -3263,8 +3263,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #8989bb;
-			background-image: linear-gradient(315deg, #8989bb 0%, #a5a4cb 74%);
+			background-color: #bd4f6c;
+			background-image: linear-gradient(326deg, #bd4f6c 0%, #d7816a 74%);
 		}
 
 		.wrapper.style2-alt {
@@ -3272,11 +3272,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			/* background-color: #655d72;
-			background-image: linear-gradient(147deg, #655d72 0%, #898196 74%); */
-
-
-
+		background-color: #222222;
 		}
 
 		.wrapper.style3-alt {
@@ -3781,14 +3777,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #bd4f6c;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: -webkit-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: -ms-linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
+				background-image: linear-gradient(to right, #bd4f6c 0%, #d7816a 74%);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
